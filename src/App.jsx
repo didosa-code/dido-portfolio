@@ -396,7 +396,7 @@ function App() {
 
                 <div>
                   <span>DISCORD</span>
-                  <b>w5do</b>
+                  <b>w5do_</b>
                 </div>
 
                 <div>
@@ -831,7 +831,7 @@ function App() {
                 <div>
                   <span>DISCORD</span>
 
-                  <b>w5do</b>
+                  <b>w5do_</b>
                 </div>
 
                 <ArrowUpRight size={18} />
